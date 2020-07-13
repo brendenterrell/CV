@@ -3,7 +3,7 @@ I'm a new developer that got inspired by my Uncle to go into this field and crea
 
 I enjoy learning new things and developed solution to problems and while collobrating with a team to find other solutions.
 
-I'm self driven, hard working and easy going. I also hold a associate degree in Cybersecurity and Computer Information Systems
+I'm self driven, hard working and easy going. I also am working on a associate degree in Cybersecurity and Computer Information Systems
 
 ## Experience:
 ### Scrimba Course (2020)
